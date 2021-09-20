@@ -133,10 +133,13 @@ ________________________________________________________________________________
   />
 
 </BrowserRouter>
-  
-  
-  **Env SetUp**
-  Create new project folder in react:
+
+
+
+**Env SetUp**
+
+
+Create new project folder in react:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 => npx create-react-app appname_in_lowercaseletter
 
